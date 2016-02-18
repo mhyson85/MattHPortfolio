@@ -1,0 +1,42 @@
+nav {
+	font-family: "Droid", sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+h1 {
+	font-family: "Share", sans-serif;
+	font-size: 96px;
+	text-align: center;
+	color: #332532;
+	text-transform: uppercase;
+}
+h2 {
+	font-family: "Droid Sans", Arial, sans-serif;
+	font-size: 28px;
+	text-align: center;	
+	padding: 23px;
+}
+
+p {
+	font-family: "Droid Sans", sans-serif;
+	text-align: center;
+}
+
+.header {
+	background-color: #4D5159;
+	background-image: url('images/brick_header.jpg');
+	padding: 50px;
+}
+
+.jobtitle {
+	font-weight: bold;
+}
+
+body {
+	background-color: #778BA6;
+}
+
+.sociallinks {
+	text-align: center;
+}
